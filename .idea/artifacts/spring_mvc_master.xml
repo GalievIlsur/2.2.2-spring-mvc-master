@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="spring-mvc-master">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_mvc_master</output-path>
+    <root id="root" />
+  </artifact>
+</component>
